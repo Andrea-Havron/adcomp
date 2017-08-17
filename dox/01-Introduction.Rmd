@@ -111,7 +111,7 @@ distribution to the parameter.
 The purpose of the C++ program is to calculate the (negative) joint
 density of data and latent random variables. Each datum and individual
 latent random effect gives a contribution to log likelihood, which may
-be though of as a "distribution assignment" by users familiar with
+be thought of as a "distribution assignment" by users familiar with
 software in the BUGS family.
 
 ```{.cpp}
